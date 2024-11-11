@@ -25,13 +25,13 @@ El objetivo es crear una landing page funcional con un formulario de suscripció
 1. Clonar este repositorio:
 
     ```bash
-    git clone https://github.com/usuario/nombre-del-repositorio.git
+    git clone https://github.com/LautaroSchab/ProyectoFinalSF.git
     ```
 
 2. Navegar al directorio del proyecto:
 
     ```bash
-    cd nombre-del-repositorio
+    cd ProyectoFinalSF
     ```
 
 3. Construir y levantar los servicios con Docker Compose:
